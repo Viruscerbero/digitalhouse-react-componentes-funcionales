@@ -1,4 +1,4 @@
-# digitalhouse-proyecto-react-basico 
+# digitalhouse-react-componentes-funcionales
 Esta es una aplicación muy sencilla para usarla como parte del material para dictar el curso de React de [digitalhouse](https://www.digitalhouse.com/ar).
 
 <br/>
