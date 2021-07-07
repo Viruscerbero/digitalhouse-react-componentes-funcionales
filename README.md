@@ -3,7 +3,7 @@ Esta es una aplicación muy sencilla para usarla como parte del material para di
 
 <br/>
 
-## Lista muy básica de elementos para explicar React
+## Aplicación muy básica para explicar componentes funcionales en React
 
 La apliicacion utiliza componentes funcionales, useState, useEffect, y funciones básicas de Javascript como fetch y map.
 
