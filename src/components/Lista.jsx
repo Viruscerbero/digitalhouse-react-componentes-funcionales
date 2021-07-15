@@ -15,7 +15,7 @@ const Lista = (props) => {
     }
 
     return (
-        <div className="lista">
+        <div className="lista" role="main">
             <h2>Personajes</h2>
             { lista }
         </div>

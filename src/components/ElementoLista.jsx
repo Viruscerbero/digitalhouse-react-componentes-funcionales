@@ -5,7 +5,7 @@ const ElementoLista = (props) => {
 
     return (
         <li id={id}>
-            <img src={image} width="100" height="auto"/>
+            <img src={image} alt={name + " image"} width="100" height="auto"/>
             <div>
                 <p> <b>Nombre:</b> {name} </p>
                 <p> <b>Especie:</b> {species} </p>
